@@ -2,6 +2,7 @@
   "name": "santu-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Santu0618.github.io/santu-portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
     "@react-three/drei": "^9.97.5",
@@ -26,8 +27,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "go-live": "lt --port 3000 --santu-portfolio"
-      },
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -47,6 +50,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "serve": "^14.0.1",
     "tailwindcss": "^3.4.1"
   }
