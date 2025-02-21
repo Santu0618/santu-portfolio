@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/santu-portfolio/static/css/main.3e76a26b.css",
-    "main.js": "/santu-portfolio/static/js/main.cd64af5b.js",
+    "main.js": "/santu-portfolio/static/js/main.13d8abce.js",
     "static/js/453.53102088.chunk.js": "/santu-portfolio/static/js/453.53102088.chunk.js",
     "static/media/vpn.png": "/santu-portfolio/static/media/vpn.e05f7daf7b2aada9bc3d.png",
     "static/media/copeople.png": "/santu-portfolio/static/media/copeople.d67f7e541d45db45cf45.png",
     "index.html": "/santu-portfolio/index.html",
     "main.3e76a26b.css.map": "/santu-portfolio/static/css/main.3e76a26b.css.map",
-    "main.cd64af5b.js.map": "/santu-portfolio/static/js/main.cd64af5b.js.map",
+    "main.13d8abce.js.map": "/santu-portfolio/static/js/main.13d8abce.js.map",
     "453.53102088.chunk.js.map": "/santu-portfolio/static/js/453.53102088.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e76a26b.css",
-    "static/js/main.cd64af5b.js"
+    "static/js/main.13d8abce.js"
   ]
 }
